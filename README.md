@@ -36,11 +36,10 @@ Todos os testes descritos aqui foram realizados em ambiente local e isolado (VSC
 ```
 Malware-Simulation/
 │
-├── code/
-│   ├── ransomware-demo/
-│   │   ├── ransomware_demo_safe.py        # versão sanitizada (modo --dry-run / --confirm)
-│   │   └── descriptografar_demo_safe.py   # versão sanitizada de recuperação
-│   └── keylogger-demo/
+│── ransomware-demo/
+│      ├── ransomware_demo_safe.py        # versão sanitizada (modo --dry-run / --confirm)
+│      └── descriptografar_demo_safe.py   # versão sanitizada de recuperação
+│── keylogger-demo/
 │       ├── keylogger_demo_safe.py         # versão simulada (gera entradas fictícias)
 │       └── README.md                       # explicação e pseudocódigo do keylogger real
 │
@@ -53,7 +52,7 @@ Malware-Simulation/
 │       └── senhas.txt
 │
 ├── docs/
-│   └── relatorio.pdf
+│   └── relatorio.md
 ├── README.md
 ├── LICENSE
 └── .gitignore
