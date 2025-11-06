@@ -1,0 +1,5 @@
+[2025-11-05 10:12:03] Captured: ola boa tarde
+[2025-11-05 10:12:05] Captured: senha123
+[2025-11-05 10:12:11] Captured: teste de gravação
+[2025-11-05 10:12:20] Captured: usuario: admin
+[2025-11-05 10:12:28] Captured: email: usuario@example.com
